@@ -1,0 +1,4 @@
+[2026-04-19 15:02:01] Bills saved successfully. Total bills: 1
+[2026-04-19 15:02:01] Bill added: Add "Electricity" bill: $150, due 15-05-2026, Utilities category - $2000.0
+[2026-04-19 15:02:30] Bills exported to CSV: data\bills.csv
+[2026-04-19 15:02:32] Bills exported to CSV: data\bills.csv
